@@ -18,3 +18,4 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=kingspy89&icon=0&color=0)](https://visitcount.itsvg.in)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kingspy89&theme=dark&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
