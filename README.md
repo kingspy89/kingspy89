@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/74719118?v=4" width="130" style="border-radius:50%;"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=MALAV%20PATEL&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Google%20APL%202026%20Champion&descAlignY=58&descSize=16"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+multi-agent+AI+systems+with+LLMs+%2B+RAG;Gujarat%2FAhmedabad+Champion+%E2%80%94+Google+APL+2026;National+Top+15+Performer+%2B+Runner-Up+%F0%9F%8F%86"/>
@@ -177,20 +175,6 @@ Photograph infrastructure problems for instant AI classification via a real mult
 </div>
 
 <br>
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/kingspy89/kingspy89/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-<sub>Set up once via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action on your <code>kingspy89/kingspy89</code> repo — it then auto-updates from your real contribution graph.</sub>
-
-</div>
-
-<br>
-
-<div align="center">
 
 > *"Ship agentic, ship fast, ship production-grade."*
 
