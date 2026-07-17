@@ -34,7 +34,7 @@
 
 ### 🥇 Gujarat/Ahmedabad Champion
 **Google Agentic Premier League 2026**
-Won the regional round with **StadiumAI** — an agentic stadium experience platform
+Won the regional round in the Generative AI & Agentic AI track
 
 </td>
 <td align="center" width="50%">
@@ -111,14 +111,12 @@ Won the regional round with **StadiumAI** — an agentic stadium experience plat
 ## 🚀 Featured Builds
 
 <details open>
-<summary><b>🏟️ StadiumAI</b> — Google APL Gujarat/Ahmedabad Champion</summary>
+<summary><b>🧠 Enterprise Agentic RAG System</b> — Production IT Advisor for Kubernetes & Enterprise Hardware</summary>
 <br>
 
-Agentic AI stadium experience platform with real-time fan engagement and crowd analytics, powered by multi-agent orchestration and fine-tuned transformer models for intent recognition. Production-hardened with JWT auth, rate limiting, and request throttling on live GCP endpoints.
+Production-ready agentic RAG system serving as an enterprise IT advisor specializing in Kubernetes, Intel hardware (CPUs, FPGAs, SR-IOV, NICs), and enterprise networking. Features a two-stage gate architecture (NeMo Guardrails + LangGraph), conversational memory via MemorySaver checkpointing, semantic reranking with FlashRank cross-encoders, dual-embedding fallback (Gemini + local SentenceTransformer), Portkey gateway caching with Groq LLM fallback routing, and dual-layer observability via Logfire and LangSmith.
 
-`Python` `Streamlit` `GCP` `Gemini API` `Google ADK` `Firebase` `Docker`
-
-📎 [github.com/kingspy89/StadiumAI](https://github.com/kingspy89/StadiumAI)
+`Python` `FastAPI` `LangGraph` `NeMo Guardrails` `Qdrant Cloud` `Gemini API` `Groq` `Portkey` `Streamlit` `LangSmith`
 
 </details>
 
